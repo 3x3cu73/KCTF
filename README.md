@@ -1,2 +1,1 @@
-Go fucck
-audit-model:latest
+please install audit-model:latest
